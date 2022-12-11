@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Modulo 02.iml" filepath="$PROJECT_DIR$/.idea/Modulo 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SENAI-master/modulo2/semana10-apiRest/caderno/caderno.iml" filepath="$PROJECT_DIR$/SENAI-master/modulo2/semana10-apiRest/caderno/caderno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SENAI-master/modulo2/semana10-apiRest/exercicios/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/SENAI-master/modulo2/semana10-apiRest/exercicios/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SENAI-master/modulo2/semana9_springComSql/lista.semana/lista.semana/lista.semana.iml" filepath="$PROJECT_DIR$/SENAI-master/modulo2/semana9_springComSql/lista.semana/lista.semana/lista.semana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SENAI-master/modulo2/semana10-apiRest/notas-exemplo-main/notas-exemplo-main/notas.iml" filepath="$PROJECT_DIR$/SENAI-master/modulo2/semana10-apiRest/notas-exemplo-main/notas-exemplo-main/notas.iml" />
+    </modules>
+  </component>
+</project>
